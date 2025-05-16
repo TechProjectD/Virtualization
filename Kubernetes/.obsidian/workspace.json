@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "2eb2d696d91be508",
+    "type": "split",
+    "children": [
+      {
+        "id": "9178c12fc273fc1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4184495c64ee8f07",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64121c58c812278d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9dbc91ddcfd5e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b9278441c902dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1dc6b1db8212ce45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba05adb77915e1b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b8dbc82105f692d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b4342f6a30bdf27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de97b0d3788cd900",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kubernetes_deploy_2/kubernetes_containerd部署_2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for kubernetes_containerd部署_2"
+            }
+          },
+          {
+            "id": "c3afae33b23aa559",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kubernetes_deploy_2/kubernetes_containerd部署_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from kubernetes_containerd部署_2"
+            }
+          },
+          {
+            "id": "3db9bd28e2cfc218",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b1410c4bbf59c84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kubernetes_deploy_2/kubernetes_containerd部署_2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of kubernetes_containerd部署_2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4184495c64ee8f07",
+  "lastOpenFiles": [
+    "Kubernetes_Modules_3/service_4/service_basic.md",
+    "Kubernetes_Modules_3/namespace_1/namespace_basic.md",
+    "Kubernetes_deploy_2/kubernetes_containerd部署_2.md",
+    "Kubernetes_Advance_4/Server_10.md",
+    "Kubernetes_Modules_3/deployment_3/deployment_basic.md",
+    "Kubernetes_Modules_3/pod_2/pod_basic.md",
+    "Kubernetes_deploy_2/kubernetes_环境拓扑图_1.md",
+    "Kubernetes_Basic_1/kubernetes简介.md",
+    "Kubernetes_Advance_4/pod_advance_4.md",
+    "Kubernetes_Advance_4/pod_advance_1.md",
+    "Kubernetes_Advance_4/Job_8-1.md",
+    "Kubernetes_Advance_4/DaemonSet_7.md",
+    "bugfix/error.md"
+  ]
+}
