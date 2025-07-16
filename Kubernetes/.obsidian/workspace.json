@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -160,18 +161,41 @@
   },
   "active": "4184495c64ee8f07",
   "lastOpenFiles": [
+    "bugfix/error.md",
+    "0.bugfix/error.md",
+    "0.bugfix",
+    "4.Kubernetes_Advance/pod_advance_4.md",
+    "4.Kubernetes_Advance/pod_advance_3.md",
+    "4.Kubernetes_Advance/pod_advance_2.md",
+    "4.Kubernetes_Advance/pod_advance_1.md",
+    "4.Kubernetes_Advance/Server_10.md",
+    "4.Kubernetes_Advance/Security_9-2.md",
+    "4.Kubernetes_Advance/Security_9-1.md",
+    "4.Kubernetes_Advance/Job_8-2.md",
+    "4.Kubernetes_Advance/Job_8-1.md",
+    "4.Kubernetes_Advance/Horizontal_Pod_Autoscaler_6.md",
+    "4.Kubernetes_Advance/Deployment_advance_5.md",
+    "4.Kubernetes_Advance/DataStore_11.md",
+    "4.Kubernetes_Advance/Dashboard_deploy_12.md",
+    "4.Kubernetes_Advance/DaemonSet_7.md",
+    "4.Kubernetes_Advance",
+    "3.Kubernetes_Modules/service_4/service_basic.md",
+    "3.Kubernetes_Modules/pod_2/pod_basic.md",
+    "3.Kubernetes_Modules/namespace_1/namespace_basic.md",
+    "3.Kubernetes_Modules/lable_5/lable_basic.md",
+    "3.Kubernetes_Modules/deployment_3/deployment_basic.md",
+    "3.Kubernetes_Modules/service_4",
+    "3.Kubernetes_Modules/pod_2",
+    "3.Kubernetes_Modules/namespace_1",
+    "3.Kubernetes_Modules/lable_5",
+    "3.Kubernetes_Modules/deployment_3",
+    "3.Kubernetes_Modules",
+    "2.Kubernetes_deploy/kubernetes_环境拓扑图_1.md",
+    "2.Kubernetes_deploy/kubernetes_containerd部署_2.md",
+    "2.Kubernetes_deploy",
+    "1.Kubernetes_Basic/kubernetes简介.md",
+    "1.Kubernetes_Basic",
     "Kubernetes_Modules_3/service_4/service_basic.md",
-    "Kubernetes_Modules_3/namespace_1/namespace_basic.md",
-    "Kubernetes_deploy_2/kubernetes_containerd部署_2.md",
-    "Kubernetes_Advance_4/Server_10.md",
-    "Kubernetes_Modules_3/deployment_3/deployment_basic.md",
-    "Kubernetes_Modules_3/pod_2/pod_basic.md",
-    "Kubernetes_deploy_2/kubernetes_环境拓扑图_1.md",
-    "Kubernetes_Basic_1/kubernetes简介.md",
-    "Kubernetes_Advance_4/pod_advance_4.md",
-    "Kubernetes_Advance_4/pod_advance_1.md",
-    "Kubernetes_Advance_4/Job_8-1.md",
-    "Kubernetes_Advance_4/DaemonSet_7.md",
-    "bugfix/error.md"
+    "Kubernetes_Modules_3/namespace_1/namespace_basic.md"
   ]
 }
